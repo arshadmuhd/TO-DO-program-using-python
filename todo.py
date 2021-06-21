@@ -10,3 +10,13 @@ data = list()
 # 3.View items
 # 4.exit
 
+# lets  create menu items using function
+
+def displayMenu():
+    print("MENU")
+    print("1.Add an item:")
+    print("2.Mark as done:")
+    print("3.View items:")
+    print("4.exit:")
+
+
